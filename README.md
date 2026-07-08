@@ -6,8 +6,8 @@ ZKPay is a privacy-preserving dApp built on the **Midnight Network** using the C
 
 ## 🚀 Important Links
 
-- **Live Demo**: [Click here to test the ZKPay Simulator](https://zkpay-midnight.vercel.app/) *(Note: Make sure to update this Vercel link if your URL is different)*
-- **Demo Video**: [Watch the 1-Minute Walkthrough on YouTube](https://www.youtube.com/watch?v=WCHGt9IxDGE)
+- **Live Demo**: https://zkpay-midnight.vercel.app/
+- **Demo Video**: https://drive.google.com/file/d/1X7AJxKcSCwDkNOpzykNxdYLIWc8uCzoT/view?usp=drive_link
 - **Product Proposal**: Confidential Payroll and Splits Protocol
 
 ---
