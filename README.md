@@ -12,6 +12,10 @@ ZKPay is a privacy-preserving dApp built on the **Midnight Network** using the C
 
 ---
 
+## Deploy
+<img width="878" height="871" alt="image" src="https://github.com/user-attachments/assets/dc99dc0d-fa0d-452c-b925-a4530378a1ff" />
+
+
 ## 🛡️ Privacy Model
 
 ZKPay leverages Zero-Knowledge proofs to create a hybrid state (public ledger + private cell state) that perfectly balances transparency for the organization with strict privacy for the employees.
