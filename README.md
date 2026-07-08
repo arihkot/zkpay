@@ -19,9 +19,6 @@ ZKPay is a privacy-preserving dApp built on the **Midnight Network** using the C
 <img width="1449" height="840" alt="image" src="https://github.com/user-attachments/assets/bac6e4ba-3b07-4381-a74e-ffbd3b7f9880" />
 <img width="1439" height="833" alt="image" src="https://github.com/user-attachments/assets/7eff5167-7e80-474a-b46d-a2787e96040e" />
 <img width="283" height="623" alt="image" src="https://github.com/user-attachments/assets/a13a65d1-7c80-453f-95a2-444df257c8e1" />
-<img width="283" height="623" alt="image" src="https://github.com/user-attachments/assets/833c6ab0-e3e2-4939-abb6-1b47c2f118f1" />
-
-
 
 ## 🛡️ Privacy Model
 
