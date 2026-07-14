@@ -1,0 +1,22 @@
+{
+  "contractName": "zkpay",
+  "source": "src/zkpay.compact",
+  "languageVersion": ">= 0.2.0",
+  "compiler": "midnight-compact",
+  "compiledAt": "2026-07-14T00:00:00.000Z",
+  "ledger": {
+    "total_pool_value": "Cell<Uint<64>>",
+    "payees_commitments": "Map<Bytes<32>, Boolean>"
+  },
+  "circuits": [
+    "constructor",
+    "claim_payroll"
+  ],
+  "witnesses": [
+    "get_allocated_amount"
+  ],
+  "deployment": {
+    "network": "Midnight Testnet",
+    "contractAddress": "ald996ab0591244ad6292bd91f8b3479b50457de44ee1fb8ca34752affd825f6"
+  }
+}

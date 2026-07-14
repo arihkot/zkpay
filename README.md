@@ -53,5 +53,12 @@ We have built a robust Mocha + Chai testing suite that leverages the `@midnight-
 - **Frontend**: React, Vite, Tailwind CSS, GSAP (Glassmorphism UI)
 - **CI/CD**: GitHub Actions
 
+## 🌐 Contract Deployment
+
+- **Network**: Midnight Testnet
+- **Contract Address**: `ald996ab0591244ad6292bd91f8b3479b50457de44ee1fb8ca34752affd825f6`
+
+The compiled contract artifacts are located in the `managed/` directory.
+
 ---
 *Built with ❤️ for the Midnight Network Hackathon.*
